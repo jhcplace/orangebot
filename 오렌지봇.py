@@ -16,7 +16,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
-token=("NjgwMzMzMzY0ODU4OTc4MzE0.XlMRcg.L8FC9h4tXy9keUWZ-nGngUu7lj4")
+token=("token")
 
 client = discord.Client()
 
